@@ -6,4 +6,5 @@ php plugins for sublime text3
   <li><a href="https://github.com/SublimeCodeIntel/SublimeCodeIntel">SublimeCodeIntel (intelligent suggesstion)</a></li>
   <li><a href="https://sublime.wbond.net/packages/SideBarEnhancements">SidebarEnhancement</a></li>
   <li><a href="https://github.com/facelessuser/BracketHighlighter">BracketHighlighter</a></li>
+  <li><a href="https://packagecontrol.io/packages/PHP%20Completions%20Kit">PHPCompletionKit</a></li>
 </ul>
